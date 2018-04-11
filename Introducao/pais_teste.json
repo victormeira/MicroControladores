@@ -1,0 +1,41 @@
+[
+    {
+        "tipo": "retangulo",
+        "x": -60,
+        "y": -25,
+        "comprimento": 120,
+        "altura": 10,
+        "cor": "blue"
+    },
+    {
+        "tipo": "retangulo",
+        "x": -60,
+        "y": -5,
+        "comprimento": 120,
+        "altura": 10,
+        "cor": "blue"
+    },
+    {
+        "tipo": "retangulo",
+        "x": -30,
+        "y": 15,
+        "comprimento": 90,
+        "altura": 10,
+        "cor": "blue"
+    },
+    {
+        "tipo": "retangulo",
+        "x": -30,
+        "y": 35,
+        "comprimento": 90,
+        "altura": 10,
+        "cor": "blue"
+    },
+    {
+        "tipo": "circulo",
+        "x": -48,
+        "y": 18,
+        "raio": 10,
+        "cor": "yellow"
+    }
+]
